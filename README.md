@@ -13,7 +13,7 @@ python3 project.py  server (ip_addr) (port)
 ```
 
 ### Client Side
-<p>Checkout the ip address and port of the Server Side</p>
+<p>Checkout the ip address and port of the Server Side.</p>
 
 ```shell
 python3 project.py client (ip_addr) (port)
